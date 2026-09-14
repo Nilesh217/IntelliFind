@@ -1,0 +1,17 @@
+﻿# Compiled class files
+bin/
+out/
+*.class
+
+# Package files
+*.jar
+*.war
+
+# IDE metadata
+.idea/
+*.iml
+.vscode/
+
+# Temporary files
+sources.txt
+*.log
