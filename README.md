@@ -1188,7 +1188,6 @@ The application handles:
 | Version control               | Git/GitHub compatible                                |
 
 ---
-
 # 🗃️ Data Model
 
 ```mermaid
@@ -1231,7 +1230,6 @@ erDiagram
     LOST_ITEM ||--o| MATCH_RECORD : "associates with"
     FOUND_ITEM ||--o| MATCH_RECORD : "associates with"
 ```
-
 ---
 
 # 🔮 Future Enhancements
